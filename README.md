@@ -68,7 +68,7 @@ To tackel this leaky relu is used. Here the -ve values are not assigned 0 value 
 ![relu_leaky](https://cdn-images-1.medium.com/max/1600/1*ypsvQH7kvtI2BhzR2eT_Sw.png)
 
 
-Backpropagation
+# Backpropagation
 Backpropagation is the fundemental algorithm behind training neural networks. It is what changes the weights and biases of our network. This method calculates the gradient of the error function with respect to the neural network's weights.
 
 
